@@ -1,0 +1,33 @@
+body {
+	background-color: #474941;
+
+
+}
+a {
+	color: #3c910b;
+}
+h1,h2,h3,p {
+	color: #fcfcfc;
+
+}
+header {
+	
+}
+nav {
+	float: left;
+}
+
+.seperator {
+	border-right: 5px solid #bf9707;
+}
+
+.page-contents {
+	display: grid;
+	column-gap: 10px;
+	grid-template-columns: 200px auto;
+}
+
+ul {
+	list-style-type: "- ";
+	color: #3c910b;
+}
